@@ -1,4 +1,4 @@
-# PFANC
+# Predictive Fixed-Filter Active Noise Control (PFANC)
 
 This repository wil provide the open-source code for our paper:  
 **"Convolutional Recurrent Neural Network-Based Predictive Fixed-Filter Active Noise Control for Dynamic Noises" (Neural Networks submission).**
